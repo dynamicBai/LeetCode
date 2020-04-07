@@ -8,6 +8,7 @@ import com.dynamic.leetcode.day1.PrefixSolution
 import com.dynamic.leetcode.day3.MergeTwoSortedLinkedListSolution
 import com.dynamic.leetcode.day3.RemoveElementSolution
 import com.dynamic.leetcode.day4.StrStrSolution
+import com.dynamic.leetcode.day6.LetterPhoneNumber
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -24,8 +25,9 @@ class MainActivity : AppCompatActivity() {
 //                    intArrayOf(1, 2, 4)
 //                ), MergeTwoSortedLinkedListSolution.buildListNode(intArrayOf(1, 3, 4))）
 //            RemoveElementSolution.removeElement(intArrayOf(3,2,2,3),3)
-            StrStrSolution.strStr("hello",
-                "ll")
+//            StrStrSolution.strStr("hello",
+//                "ll")
+            LetterPhoneNumber.letterCombinations("237")
         }
     }
 }
