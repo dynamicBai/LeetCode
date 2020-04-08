@@ -39,5 +39,9 @@ android开发刷题练练手 先easy后medium 最后才考虑hard
 2. 桶装最多的水  （medium） 
 这个随便写了一下，写着写着就发现是冒泡排序.....想着后面再用其他排序算法优化,然而直接AC了 哈哈  太晚了 不搞了
 
+## Day7
+1. 生成括号  medium（和之前的树递归类似）
+2. 移除链表倒数第n个节点 medium （活用栈）
+3. 交换链表相邻两个节点  medium（用的 cur pre first seconde，貌似也可以用递归）
 
 
