@@ -44,4 +44,6 @@ android开发刷题练练手 先easy后medium 最后才考虑hard
 2. 移除链表倒数第n个节点 medium （活用栈）
 3. 交换链表相邻两个节点  medium（用的 cur pre first seconde，貌似也可以用递归）
 
-
+## Day8
+1.有序翻转过的数组，找特定值（medium） 二分查找的变种，注意观察翻转后的规律
+2.九宫格数独校验（medium） 算是对二维数组的熟悉吧
