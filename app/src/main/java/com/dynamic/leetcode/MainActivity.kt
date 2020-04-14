@@ -6,6 +6,7 @@ import com.dynamic.leetcode.day1.LongestSubStringSolution
 import com.dynamic.leetcode.day1.ParentheseSolution
 import com.dynamic.leetcode.day1.PrefixSolution
 import com.dynamic.leetcode.day11.TreeIsSymethetic
+import com.dynamic.leetcode.day12.PrintNumbers
 import com.dynamic.leetcode.day3.MergeTwoSortedLinkedListSolution
 import com.dynamic.leetcode.day3.RemoveElementSolution
 import com.dynamic.leetcode.day4.StrStrSolution
@@ -39,7 +40,8 @@ class MainActivity : AppCompatActivity() {
 //            )
 //            GenerateParentheses.test()
 //            SwapNode.test()
-            TreeIsSymethetic.test(intArrayOf(1, 2, 2, -1, 3, -1, 3))
+//            TreeIsSymethetic.test(intArrayOf(1, 2, 2, -1, 3, -1, 3))
+            PrintNumbers.test()
         }
     }
 }
