@@ -11,6 +11,10 @@ import com.dynamic.leetcode.day15.CountCount
 import com.dynamic.leetcode.day15.FindMissingNumber
 import com.dynamic.leetcode.day15.LeftRotateString
 import com.dynamic.leetcode.day15.ReversWords
+import com.dynamic.leetcode.day16.ConstructArr
+import com.dynamic.leetcode.day16.IsStraight
+import com.dynamic.leetcode.day16.LastRemaining
+import com.dynamic.leetcode.day16.MaxInSlideWindow
 import com.dynamic.leetcode.day3.MergeTwoSortedLinkedListSolution
 import com.dynamic.leetcode.day3.RemoveElementSolution
 import com.dynamic.leetcode.day4.StrStrSolution
@@ -49,7 +53,11 @@ class MainActivity : AppCompatActivity() {
 //            ReversWords.test()
 //            CountCount.test()
 //            LeftRotateString.test()
-            FindMissingNumber.test()
+//            FindMissingNumber.test()
+//            MaxInSlideWindow.test()
+//             ConstructArr.test()
+//            IsStraight.test()
+            LastRemaining.test()
         }
     }
 }
