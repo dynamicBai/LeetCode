@@ -16,6 +16,8 @@ import com.dynamic.leetcode.day16.IsStraight
 import com.dynamic.leetcode.day16.LastRemaining
 import com.dynamic.leetcode.day16.MaxInSlideWindow
 import com.dynamic.leetcode.day17.PermuteUnique
+import com.dynamic.leetcode.day18.MovingCount
+import com.dynamic.leetcode.day18.PathInRect
 import com.dynamic.leetcode.day3.MergeTwoSortedLinkedListSolution
 import com.dynamic.leetcode.day3.RemoveElementSolution
 import com.dynamic.leetcode.day4.StrStrSolution
@@ -59,7 +61,9 @@ class MainActivity : AppCompatActivity() {
 //             ConstructArr.test()
 //            IsStraight.test()
 //            LastRemaining.test()
-            PermuteUnique.test()
+//            PermuteUnique.test()
+//            PathInRect.test()
+            MovingCount.test()
         }
     }
 }
