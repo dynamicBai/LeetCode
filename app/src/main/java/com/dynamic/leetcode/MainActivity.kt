@@ -18,6 +18,7 @@ import com.dynamic.leetcode.day16.MaxInSlideWindow
 import com.dynamic.leetcode.day17.PermuteUnique
 import com.dynamic.leetcode.day18.MovingCount
 import com.dynamic.leetcode.day18.PathInRect
+import com.dynamic.leetcode.day19.CuttingRope
 import com.dynamic.leetcode.day3.MergeTwoSortedLinkedListSolution
 import com.dynamic.leetcode.day3.RemoveElementSolution
 import com.dynamic.leetcode.day4.StrStrSolution
@@ -63,7 +64,8 @@ class MainActivity : AppCompatActivity() {
 //            LastRemaining.test()
 //            PermuteUnique.test()
 //            PathInRect.test()
-            MovingCount.test()
+//            MovingCount.test()
+            CuttingRope.test()
         }
     }
 }
