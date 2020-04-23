@@ -19,6 +19,9 @@ import com.dynamic.leetcode.day17.PermuteUnique
 import com.dynamic.leetcode.day18.MovingCount
 import com.dynamic.leetcode.day18.PathInRect
 import com.dynamic.leetcode.day19.CuttingRope
+import com.dynamic.leetcode.day20.MyPow
+import com.dynamic.leetcode.day20.Permutation
+import com.dynamic.leetcode.day20.ValidaStackSequence
 import com.dynamic.leetcode.day3.MergeTwoSortedLinkedListSolution
 import com.dynamic.leetcode.day3.RemoveElementSolution
 import com.dynamic.leetcode.day4.StrStrSolution
@@ -65,7 +68,10 @@ class MainActivity : AppCompatActivity() {
 //            PermuteUnique.test()
 //            PathInRect.test()
 //            MovingCount.test()
-            CuttingRope.test()
+//            CuttingRope.test()
+//            MyPow.test()
+//              ValidaStackSequence.test()
+            Permutation.test()
         }
     }
 }
