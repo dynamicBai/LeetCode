@@ -23,6 +23,8 @@ import com.dynamic.leetcode.day20.MyPow
 import com.dynamic.leetcode.day20.Permutation
 import com.dynamic.leetcode.day20.ValidaStackSequence
 import com.dynamic.leetcode.day21.LongestSubString
+import com.dynamic.leetcode.day22.CheckBinaryTraversal
+import com.dynamic.leetcode.day22.PathSum
 import com.dynamic.leetcode.day3.MergeTwoSortedLinkedListSolution
 import com.dynamic.leetcode.day3.RemoveElementSolution
 import com.dynamic.leetcode.day4.StrStrSolution
@@ -73,7 +75,9 @@ class MainActivity : AppCompatActivity() {
 //            MyPow.test()
 //              ValidaStackSequence.test()
 //            Permutation.test()
-            LongestSubString.test()
+//            LongestSubString.test()
+//            CheckBinaryTraversal.test()
+//            PathSum.test()
         }
     }
 }
