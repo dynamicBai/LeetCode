@@ -2,36 +2,8 @@ package com.dynamic.leetcode
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.dynamic.leetcode.day1.LongestSubStringSolution
-import com.dynamic.leetcode.day1.ParentheseSolution
-import com.dynamic.leetcode.day1.PrefixSolution
-import com.dynamic.leetcode.day11.TreeIsSymethetic
-import com.dynamic.leetcode.day12.PrintNumbers
-import com.dynamic.leetcode.day15.CountCount
-import com.dynamic.leetcode.day15.FindMissingNumber
-import com.dynamic.leetcode.day15.LeftRotateString
-import com.dynamic.leetcode.day15.ReversWords
-import com.dynamic.leetcode.day16.ConstructArr
-import com.dynamic.leetcode.day16.IsStraight
-import com.dynamic.leetcode.day16.LastRemaining
-import com.dynamic.leetcode.day16.MaxInSlideWindow
-import com.dynamic.leetcode.day17.PermuteUnique
-import com.dynamic.leetcode.day18.MovingCount
-import com.dynamic.leetcode.day18.PathInRect
-import com.dynamic.leetcode.day19.CuttingRope
-import com.dynamic.leetcode.day20.MyPow
-import com.dynamic.leetcode.day20.Permutation
-import com.dynamic.leetcode.day20.ValidaStackSequence
-import com.dynamic.leetcode.day21.LongestSubString
-import com.dynamic.leetcode.day22.CheckBinaryTraversal
-import com.dynamic.leetcode.day22.PathSum
-import com.dynamic.leetcode.day3.MergeTwoSortedLinkedListSolution
-import com.dynamic.leetcode.day3.RemoveElementSolution
-import com.dynamic.leetcode.day4.StrStrSolution
-import com.dynamic.leetcode.day6.LetterPhoneNumber
-import com.dynamic.leetcode.day7.GenerateParentheses
-import com.dynamic.leetcode.day7.RemoveNthEndNode
-import com.dynamic.leetcode.day7.SwapNode
+import com.dynamic.leetcode.day23.PathSum
+import com.dynamic.leetcode.day23.PrintNum
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -78,6 +50,7 @@ class MainActivity : AppCompatActivity() {
 //            LongestSubString.test()
 //            CheckBinaryTraversal.test()
 //            PathSum.test()
+            PrintNum.test()
         }
     }
 }
