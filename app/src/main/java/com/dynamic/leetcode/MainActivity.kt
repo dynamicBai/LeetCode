@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.dynamic.leetcode.day23.PathSum
 import com.dynamic.leetcode.day23.PrintNum
+import com.dynamic.leetcode.day24.Num2String
+import com.dynamic.leetcode.day24.SortMInNum
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -50,7 +52,9 @@ class MainActivity : AppCompatActivity() {
 //            LongestSubString.test()
 //            CheckBinaryTraversal.test()
 //            PathSum.test()
-            PrintNum.test()
+//            PrintNum.test()
+//            SortMInNum.test()
+            Num2String.test()
         }
     }
 }
