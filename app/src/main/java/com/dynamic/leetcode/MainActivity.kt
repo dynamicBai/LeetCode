@@ -6,6 +6,7 @@ import com.dynamic.leetcode.day23.PathSum
 import com.dynamic.leetcode.day23.PrintNum
 import com.dynamic.leetcode.day24.Num2String
 import com.dynamic.leetcode.day24.SortMInNum
+import com.dynamic.leetcode.day25.*
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -54,7 +55,12 @@ class MainActivity : AppCompatActivity() {
 //            PathSum.test()
 //            PrintNum.test()
 //            SortMInNum.test()
-            Num2String.test()
+//            Num2String.test()
+//            MaxValuePresent.test()
+//            UglyNumber.test()
+//            SingleNumbers.test()
+//            IsNumber.test()
+            SumNums.test()
         }
     }
 }
