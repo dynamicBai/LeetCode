@@ -7,6 +7,7 @@ import com.dynamic.leetcode.day23.PrintNum
 import com.dynamic.leetcode.day24.Num2String
 import com.dynamic.leetcode.day24.SortMInNum
 import com.dynamic.leetcode.day25.*
+import com.dynamic.leetcode.day26.DiceSum
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -60,7 +61,8 @@ class MainActivity : AppCompatActivity() {
 //            UglyNumber.test()
 //            SingleNumbers.test()
 //            IsNumber.test()
-            SumNums.test()
+//            SumNums.test
+            DiceSum.test()
         }
     }
 }
