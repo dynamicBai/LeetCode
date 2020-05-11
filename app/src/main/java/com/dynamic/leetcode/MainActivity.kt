@@ -8,6 +8,8 @@ import com.dynamic.leetcode.day24.Num2String
 import com.dynamic.leetcode.day24.SortMInNum
 import com.dynamic.leetcode.day25.*
 import com.dynamic.leetcode.day26.DiceSum
+import com.dynamic.leetcode.day27.FindContinuousSequence
+import com.dynamic.leetcode.day27.MinStack
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -62,7 +64,9 @@ class MainActivity : AppCompatActivity() {
 //            SingleNumbers.test()
 //            IsNumber.test()
 //            SumNums.test
-            DiceSum.test()
+//            DiceSum.test()
+//            MinStack.test()
+            FindContinuousSequence.test()
         }
     }
 }
