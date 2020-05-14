@@ -10,6 +10,7 @@ import com.dynamic.leetcode.day25.*
 import com.dynamic.leetcode.day26.DiceSum
 import com.dynamic.leetcode.day27.FindContinuousSequence
 import com.dynamic.leetcode.day27.MinStack
+import com.dynamic.leetcode.day28.RangeCoin
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -66,7 +67,8 @@ class MainActivity : AppCompatActivity() {
 //            SumNums.test
 //            DiceSum.test()
 //            MinStack.test()
-            FindContinuousSequence.test()
+//            FindContinuousSequence.test()
+            RangeCoin.test()
         }
     }
 }
