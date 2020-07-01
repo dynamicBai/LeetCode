@@ -11,7 +11,9 @@ import com.dynamic.leetcode.day26.DiceSum
 import com.dynamic.leetcode.day27.FindContinuousSequence
 import com.dynamic.leetcode.day27.MinStack
 import com.dynamic.leetcode.day28.RangeCoin
+import com.dynamic.leetcode.day29.ReverseList
 import com.dynamic.leetcode.day30.SubSets
+import com.dynamic.leetcode.day31.ReverseList2
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -70,7 +72,8 @@ class MainActivity : AppCompatActivity() {
 //            MinStack.test()
 //            FindContinuousSequence.test()
 //            RangeCoin.test()
-            SubSets.test()
+//            SubSets.test()
+            ReverseList2.test()
         }
     }
 }
