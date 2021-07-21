@@ -73,7 +73,7 @@ class MainActivity : AppCompatActivity() {
 //            FindContinuousSequence.test()
 //            RangeCoin.test()
 //            SubSets.test()
-            ReverseList2.test()
+//            ReverseList2.test
         }
     }
 }

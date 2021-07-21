@@ -1,4 +1,8 @@
 package com.dynamic.leetcode.day31;
+import java.sql.Array;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.LinkedList;
 
 /**
  * @author: dynamic
@@ -37,5 +41,13 @@ public class ReverseList2 {
 
         Node next;
         int value;
+
+        LinkedList<Character>c;
+        char a1 ;
+        char[] chars;
+        String str = new String(chars);
+
+        ArrayList<String>list = new ArrayList<>();
+
     }
 }
